@@ -1,1 +1,1 @@
-export const XAI_API_KEY = "xai-bn20Z7itoxhTAlgfPF9TOT5KnhrgeUf4b266T2LYGklU9HPUmjJeRK5hVUNkc2rNDGlxzyPqhAjIxBFs";
+export const XAI_API_KEY = "xai-";
